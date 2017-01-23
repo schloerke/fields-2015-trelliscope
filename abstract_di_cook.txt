@@ -1,0 +1,12 @@
+A Kaleidoscope of Statistical Graphics Research Projects
+
+This will be a series of short talks displaying a range of current projects in data visualization research from Iowa State University and Purdue University.
+- Adding a new geom to ggplot2, with a goal being to extend the widely used software network plotting capacity. Samanthat Tyner
+- Exploring networks using d3 and shiny in the software gravicom. Andee Kaplan
+- Visualizing topic models from text analysis with latent dirichlet allocation, with the R package LDAvis. Carson Sievert
+- Exploring temporal data by interactively slicing and dicing, using the R package cranvastime. Xiaoyue Cheng
+- Trelliscoping big data. Barret Schloerke
+
+Di Cook
+Iowa State University
+(soon to be Monash University, Australia)
